@@ -1,0 +1,7 @@
+module CalculatorIDL
+{
+	interface CalculateThisShit
+	{
+		double calculate(in string input);
+	};
+};

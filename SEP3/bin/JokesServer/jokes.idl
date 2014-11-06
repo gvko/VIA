@@ -1,0 +1,7 @@
+module jokes
+{
+interface Jokes
+{
+string send_joke();
+};
+};
